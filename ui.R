@@ -1,4 +1,3 @@
-library(DT)
 library(shiny)
 
 # Define UI for application that plots random distributions 
